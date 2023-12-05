@@ -35,3 +35,5 @@
 ### その後の機能
 * タグ検索
 
+### 画面遷移図
+* https://www.figma.com/file/Kp9WwXgY4mBAwFH7k7NhoT/%E3%82%B9%E3%83%9E%E3%83%AC%E3%83%93?type=design&node-id=0%3A1&mode=design&t=aOoXd7pOOPmQ5qmH-1
